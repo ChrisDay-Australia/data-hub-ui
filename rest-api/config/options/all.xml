@@ -97,7 +97,7 @@
         <score/>
       </sort-order>
     </state>
-    <state name="eyeColorAsc">
+<!--     <state name="eyeColorAsc">
       <sort-order
     direction="ascending" type="xs:string" collation="http://marklogic.com/collation/codepoint">
         <path-index>eyeColor</path-index>
@@ -108,7 +108,7 @@
     direction="descending" type="xs:string" collation="http://marklogic.com/collation/codepoint">
         <path-index>eyeColor</path-index>
       </sort-order>
-    </state>
+    </state> -->
   </operator>
   <!-- Annotations (allowed pretty much anywhere) allow adding text or elements to feed custom components with options that would normally not validate) -->
   <annotation>Delta options here</annotation>
